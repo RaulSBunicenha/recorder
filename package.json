@@ -7,13 +7,13 @@
     "lib": "lib"
   },
   "scripts": {
-    "start": "npx http-server .",
+    "start": "live-server .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "http-server": "^0.12.3"
+    "live-server": "^0.12.3"
   }
 }
